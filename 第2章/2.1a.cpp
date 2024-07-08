@@ -9,5 +9,6 @@ int main() {
     b = 2.5; // 为float型变量b赋值实型常量2.5
     c = 'A'; // 为char型变量c赋值字符型常量'A'
 
+
     return 0;
 }
