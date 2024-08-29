@@ -8,6 +8,5 @@ int main(void) {
     p = -b / (2 * a);
     q = sqrt(disc) / (2 * a);
     printf("x1=%7.4f,x2=%7.4f\n", p+q, p-q);
-
     return 0;
 }

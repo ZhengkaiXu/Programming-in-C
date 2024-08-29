@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Programming_in_C" targetName="Programming_in_C" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming-in-C.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/.idea/ch3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/习题3/3.4.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch3/习题3/3.4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/.idea/第2章.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.1a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.1b.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.2.dSYM/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.2.dSYM/Contents/Resources/DWARF/2.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.2.dSYM/Contents/Resources/Relocations/aarch64/2.2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/2.3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章/习题2/2.2.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.3.5.2.c.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.3.5.2.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programming_in_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="Programming_in_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programming_in_C" RUN_TARGET_NAME="Programming_in_C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.5.2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="3.5.2.c" CONFIG_NAME="3.5.2.c">
+      <option name="sourceFile" value="ch3/习题3/3.5.2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.3.5.2.c" />
+      <item itemvalue="CMake Application.Programming_in_C" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.3.5.2.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="" />
+      <created>1724950769776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724950769776</updated>
+      <workItem from="1724950771670" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch3/习题3/3.5.2.c</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
