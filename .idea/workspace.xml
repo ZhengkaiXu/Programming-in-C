@@ -21,21 +21,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch4/4.5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/4.6.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/4.6.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/4.6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/习题4/4.1.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/习题4/4.1.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/习题4/4.1.3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/习题4/4.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/习题4/4.3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/习题4/4.4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/5.9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/习题5/5.7.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.2" beforeDir="false" afterPath="$PROJECT_DIR$/4.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.3" beforeDir="false" afterPath="$PROJECT_DIR$/4.3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.4" beforeDir="false" afterPath="$PROJECT_DIR$/4.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/4.4.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/4.4.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8f682293112db89dcae9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-76e2fd7bb237fc264f80.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-29T16-59-31-0549.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b5b70a09b5cb5c487388.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +79,28 @@
     "C/C++ File.3.5.2.c.executor": "Run",
     "C/C++ File.3.5.3.c.executor": "Run",
     "C/C++ File.3.5.4.c.executor": "Run",
+    "C/C++ File.4.1.1.c.executor": "Run",
+    "C/C++ File.4.1.2.c.executor": "Run",
+    "C/C++ File.4.1.3.c.executor": "Run",
     "C/C++ File.4.1.c.executor": "Run",
     "C/C++ File.4.2.c.executor": "Run",
     "C/C++ File.4.3.c.executor": "Run",
     "C/C++ File.4.4.c.executor": "Run",
     "C/C++ File.4.5.c.executor": "Run",
+    "C/C++ File.4.6.1.c.executor": "Run",
+    "C/C++ File.4.6.2.c.executor": "Run",
+    "C/C++ File.4.6.c.executor": "Run",
+    "C/C++ File.5.1.c.executor": "Run",
+    "C/C++ File.5.10.c.executor": "Run",
+    "C/C++ File.5.11.c.executor": "Run",
+    "C/C++ File.5.2.c.executor": "Run",
+    "C/C++ File.5.3.c.executor": "Run",
+    "C/C++ File.5.4.c.executor": "Run",
+    "C/C++ File.5.5.c.executor": "Run",
+    "C/C++ File.5.6.c.executor": "Run",
+    "C/C++ File.5.7.c.executor": "Run",
+    "C/C++ File.5.8.c.executor": "Run",
+    "C/C++ File.5.9.c.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -82,7 +115,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.4.5.c">
+  <component name="RunManager" selected="C/C++ File.5.7.c">
     <configuration name="Programming_in_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="Programming_in_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programming_in_C" RUN_TARGET_NAME="Programming_in_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -93,51 +126,51 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4.1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="4.1.c" CONFIG_NAME="4.1.c">
-      <option name="sourceFile" value="ch4/4.1.c" />
+    <configuration name="5.3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="5.3.c" CONFIG_NAME="5.3.c">
+      <option name="sourceFile" value="ch5/习题5/5.3.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4.2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="4.2.c" CONFIG_NAME="4.2.c">
-      <option name="sourceFile" value="ch4/4.2.c" />
+    <configuration name="5.4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="5.4.c" CONFIG_NAME="5.4.c">
+      <option name="sourceFile" value="ch5/习题5/5.4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4.3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="4.3.c" CONFIG_NAME="4.3.c">
-      <option name="sourceFile" value="ch4/4.3.c" />
+    <configuration name="5.5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="5.5.c" CONFIG_NAME="5.5.c">
+      <option name="sourceFile" value="ch5/习题5/5.5.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4.4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="4.4.c" CONFIG_NAME="4.4.c">
-      <option name="sourceFile" value="ch4/4.4.c" />
+    <configuration name="5.6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="5.6.c" CONFIG_NAME="5.6.c">
+      <option name="sourceFile" value="ch5/习题5/5.6.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4.5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="4.5.c" CONFIG_NAME="4.5.c">
-      <option name="sourceFile" value="ch4/4.5.c" />
+    <configuration name="5.7.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="5.7.c" CONFIG_NAME="5.7.c">
+      <option name="sourceFile" value="ch5/习题5/5.7.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.4.5.c" />
-      <item itemvalue="C/C++ File.4.1.c" />
-      <item itemvalue="C/C++ File.4.2.c" />
-      <item itemvalue="C/C++ File.4.3.c" />
-      <item itemvalue="C/C++ File.4.4.c" />
+      <item itemvalue="C/C++ File.5.3.c" />
+      <item itemvalue="C/C++ File.5.4.c" />
+      <item itemvalue="C/C++ File.5.5.c" />
+      <item itemvalue="C/C++ File.5.6.c" />
+      <item itemvalue="C/C++ File.5.7.c" />
       <item itemvalue="CMake Application.Programming_in_C" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.4.5.c" />
-        <item itemvalue="C/C++ File.4.4.c" />
-        <item itemvalue="C/C++ File.4.3.c" />
-        <item itemvalue="C/C++ File.4.2.c" />
-        <item itemvalue="C/C++ File.4.1.c" />
+        <item itemvalue="C/C++ File.5.7.c" />
+        <item itemvalue="C/C++ File.5.6.c" />
+        <item itemvalue="C/C++ File.5.5.c" />
+        <item itemvalue="C/C++ File.5.4.c" />
+        <item itemvalue="C/C++ File.5.3.c" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724950769776</updated>
       <workItem from="1724950771670" duration="3642000" />
-      <workItem from="1725087181821" duration="1495000" />
+      <workItem from="1725087181821" duration="18563000" />
     </task>
     <servers />
   </component>
@@ -164,6 +197,46 @@
           <url>file://$PROJECT_DIR$/ch3/习题3/3.5.2.c</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch4/4.5.c</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch4/4.5.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch4/习题4/4.2.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch4/习题4/4.3.c</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch5/5.2.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch5/5.8.c</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch5/习题5/5.4.c</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch5/习题5/5.6.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
