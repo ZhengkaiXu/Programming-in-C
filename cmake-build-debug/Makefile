@@ -129,30 +129,6 @@ Programming_in_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/build
 .PHONY : Programming_in_C/fast
 
-ch5/习题5/5.8.o: ch5/习题5/5.8.c.o
-.PHONY : ch5/习题5/5.8.o
-
-# target to build an object file
-ch5/习题5/5.8.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.o
-.PHONY : ch5/习题5/5.8.c.o
-
-ch5/习题5/5.8.i: ch5/习题5/5.8.c.i
-.PHONY : ch5/习题5/5.8.i
-
-# target to preprocess a source file
-ch5/习题5/5.8.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.i
-.PHONY : ch5/习题5/5.8.c.i
-
-ch5/习题5/5.8.s: ch5/习题5/5.8.c.s
-.PHONY : ch5/习题5/5.8.s
-
-# target to generate assembly for a file
-ch5/习题5/5.8.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.s
-.PHONY : ch5/习题5/5.8.c.s
-
 main.o: main.c.o
 .PHONY : main.o
 
@@ -186,9 +162,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Programming_in_C"
-	@echo "... ch5/习题5/5.8.o"
-	@echo "... ch5/习题5/5.8.i"
-	@echo "... ch5/习题5/5.8.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
