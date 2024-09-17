@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.o"
+  "CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.o.d"
   "CMakeFiles/Programming_in_C.dir/main.c.o"
   "CMakeFiles/Programming_in_C.dir/main.c.o.d"
   "Programming_in_C"
