@@ -24,123 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.1.1.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.1.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.1.dSYM/Contents/Resources/DWARF/6.1.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.1.dSYM/Contents/Resources/Relocations/aarch64/6.1.1.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.2.dSYM/Contents/Resources/DWARF/6.1.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.2.dSYM/Contents/Resources/Relocations/aarch64/6.1.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.10.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.10.dSYM/Contents/Resources/DWARF/6.10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.10.dSYM/Contents/Resources/Relocations/aarch64/6.10.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.2.dSYM/Contents/Resources/DWARF/6.11.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.2.dSYM/Contents/Resources/Relocations/aarch64/6.11.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.dSYM/Contents/Resources/DWARF/6.11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.11.dSYM/Contents/Resources/Relocations/aarch64/6.11.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.12.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.12.dSYM/Contents/Resources/DWARF/6.12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.12.dSYM/Contents/Resources/Relocations/aarch64/6.12.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.2.dSYM/Contents/Resources/DWARF/6.13.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.2.dSYM/Contents/Resources/Relocations/aarch64/6.13.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.3.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.3.dSYM/Contents/Resources/DWARF/6.13.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.3.dSYM/Contents/Resources/Relocations/aarch64/6.13.3.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.4.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.4.dSYM/Contents/Resources/DWARF/6.13.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.4.dSYM/Contents/Resources/Relocations/aarch64/6.13.4.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.dSYM/Contents/Resources/DWARF/6.13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.13.dSYM/Contents/Resources/Relocations/aarch64/6.13.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.2.dSYM/Contents/Resources/DWARF/6.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.2.dSYM/Contents/Resources/Relocations/aarch64/6.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3.dSYM/Contents/Resources/DWARF/6.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3.dSYM/Contents/Resources/Relocations/aarch64/6.3.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4.dSYM/Contents/Resources/DWARF/6.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4.dSYM/Contents/Resources/Relocations/aarch64/6.4.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.5.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.5.dSYM/Contents/Resources/DWARF/6.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.5.dSYM/Contents/Resources/Relocations/aarch64/6.5.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6.dSYM/Contents/Resources/DWARF/6.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6.dSYM/Contents/Resources/Relocations/aarch64/6.6.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.2.dSYM/Contents/Resources/DWARF/6.7.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.2.dSYM/Contents/Resources/Relocations/aarch64/6.7.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.3.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.3.dSYM/Contents/Resources/DWARF/6.7.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.3.dSYM/Contents/Resources/Relocations/aarch64/6.7.3.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.4.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.4.dSYM/Contents/Resources/DWARF/6.7.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.4.dSYM/Contents/Resources/Relocations/aarch64/6.7.4.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.dSYM/Contents/Resources/DWARF/6.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7.dSYM/Contents/Resources/Relocations/aarch64/6.7.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8.dSYM/Contents/Resources/DWARF/6.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8.dSYM/Contents/Resources/Relocations/aarch64/6.8.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.9.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.9.dSYM/Contents/Resources/DWARF/6.9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.9.dSYM/Contents/Resources/Relocations/aarch64/6.9.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-af511d0ec6fd18724b07.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d29310bf56772406b8a4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6504692a8ead97204f38.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-17T06-23-46-0463.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Programming_in_C-Debug-7a85441e0b0b34e8e744.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c6512fcbfb1f8722ee5a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/ch5/习题5/5.8.c.o.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/compiler_depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/compiler_depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/main.c.o.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch6/习题6/6.1.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/习题6/6.1.2.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +79,8 @@
     &quot;C/C++ File.5.8.1.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.5.8.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.5.9.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.6-14.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.6-15.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.6.1.1.c.executor&quot;: &quot;Debug&quot;,
     &quot;C/C++ File.6.1.2.c.executor&quot;: &quot;Debug&quot;,
     &quot;C/C++ File.6.1.3.c.executor&quot;: &quot;Run&quot;,
@@ -233,31 +121,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.6.13.6.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.6.1.1.c">
     <configuration name="Programming_in_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="Programming_in_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programming_in_C" RUN_TARGET_NAME="Programming_in_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6.13.2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.13.2.c" CONFIG_NAME="6.13.2.c">
-      <option name="sourceFile" value="ch6/6.13.2.c" />
+    <configuration name="6-14.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6-14.c" CONFIG_NAME="6-14.c">
+      <option name="sourceFile" value="ch6/6-14.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6.13.3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.13.3.c" CONFIG_NAME="6.13.3.c">
-      <option name="sourceFile" value="ch6/6.13.3.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="6.13.4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.13.4.c" CONFIG_NAME="6.13.4.c">
-      <option name="sourceFile" value="ch6/6.13.4.c" />
+    <configuration name="6-15.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6-15.c" CONFIG_NAME="6-15.c">
+      <option name="sourceFile" value="ch6/6-15.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -274,21 +151,27 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="6.1.1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.1.1.c" CONFIG_NAME="6.1.1.c">
+      <option name="sourceFile" value="ch6/习题6/6.1.1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="C/C++ File.6.13.2.c" />
-      <item itemvalue="C/C++ File.6.13.3.c" />
-      <item itemvalue="C/C++ File.6.13.4.c" />
+      <item itemvalue="C/C++ File.6.1.1.c" />
+      <item itemvalue="C/C++ File.6-14.c" />
+      <item itemvalue="C/C++ File.6-15.c" />
       <item itemvalue="C/C++ File.6.13.5.c" />
       <item itemvalue="C/C++ File.6.13.6.c" />
       <item itemvalue="CMake Application.Programming_in_C" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.6.1.1.c" />
+        <item itemvalue="C/C++ File.6-15.c" />
+        <item itemvalue="C/C++ File.6-14.c" />
         <item itemvalue="C/C++ File.6.13.6.c" />
         <item itemvalue="C/C++ File.6.13.5.c" />
-        <item itemvalue="C/C++ File.6.13.4.c" />
-        <item itemvalue="C/C++ File.6.13.3.c" />
-        <item itemvalue="C/C++ File.6.13.2.c" />
       </list>
     </recent_temporary>
   </component>
@@ -306,6 +189,8 @@
       <workItem from="1726554066380" duration="15083000" />
       <workItem from="1726591548372" duration="24000" />
       <workItem from="1726591582344" duration="76000" />
+      <workItem from="1726591660926" duration="916000" />
+      <workItem from="1726672579812" duration="1442000" />
     </task>
     <servers />
   </component>
