@@ -24,9 +24,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.1.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.2.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.2.3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.2.4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.2.5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.7.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/习题6/6.7.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/习题6/6.1.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/习题6/6.1.2.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,129 +57,135 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.3.5.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.3.5.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.3.5.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.6.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.6.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.10.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.11.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.12.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.12.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.7.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.8.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.8.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.9.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6-14.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6-15.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.1.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.1.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.1.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.10.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.11.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.11.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.12.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.4.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.13.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.13.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.4.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.5.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.7.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.7.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.7.4.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.7.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.8.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.9.c.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.Programming_in_C.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.3.5.2.c.executor": "Run",
+    "C/C++ File.3.5.3.c.executor": "Run",
+    "C/C++ File.3.5.4.c.executor": "Run",
+    "C/C++ File.4.1.1.c.executor": "Run",
+    "C/C++ File.4.1.2.c.executor": "Run",
+    "C/C++ File.4.1.3.c.executor": "Run",
+    "C/C++ File.4.1.c.executor": "Run",
+    "C/C++ File.4.2.c.executor": "Run",
+    "C/C++ File.4.3.c.executor": "Run",
+    "C/C++ File.4.4.c.executor": "Run",
+    "C/C++ File.4.5.c.executor": "Run",
+    "C/C++ File.4.6.1.c.executor": "Run",
+    "C/C++ File.4.6.2.c.executor": "Run",
+    "C/C++ File.4.6.c.executor": "Run",
+    "C/C++ File.5.1.c.executor": "Run",
+    "C/C++ File.5.10.c.executor": "Run",
+    "C/C++ File.5.11.c.executor": "Run",
+    "C/C++ File.5.12.1.c.executor": "Run",
+    "C/C++ File.5.12.2.c.executor": "Run",
+    "C/C++ File.5.2.c.executor": "Run",
+    "C/C++ File.5.3.c.executor": "Run",
+    "C/C++ File.5.4.c.executor": "Run",
+    "C/C++ File.5.5.c.executor": "Run",
+    "C/C++ File.5.6.c.executor": "Run",
+    "C/C++ File.5.7.c.executor": "Run",
+    "C/C++ File.5.8.1.c.executor": "Run",
+    "C/C++ File.5.8.c.executor": "Run",
+    "C/C++ File.5.9.c.executor": "Run",
+    "C/C++ File.6-14.c.executor": "Run",
+    "C/C++ File.6-15.c.executor": "Run",
+    "C/C++ File.6.1.1.c.executor": "Debug",
+    "C/C++ File.6.1.2.c.executor": "Debug",
+    "C/C++ File.6.1.3.c.executor": "Debug",
+    "C/C++ File.6.10.c.executor": "Debug",
+    "C/C++ File.6.11.2.c.executor": "Debug",
+    "C/C++ File.6.11.c.executor": "Debug",
+    "C/C++ File.6.12.c.executor": "Debug",
+    "C/C++ File.6.13.2.c.executor": "Debug",
+    "C/C++ File.6.13.3.c.executor": "Debug",
+    "C/C++ File.6.13.4.c.executor": "Debug",
+    "C/C++ File.6.13.5.c.executor": "Run",
+    "C/C++ File.6.13.6.c.executor": "Run",
+    "C/C++ File.6.13.c.executor": "Debug",
+    "C/C++ File.6.2.1.c.executor": "Debug",
+    "C/C++ File.6.2.2.c.executor": "Debug",
+    "C/C++ File.6.2.3.c.executor": "Debug",
+    "C/C++ File.6.2.4.c.executor": "Debug",
+    "C/C++ File.6.2.5.c.executor": "Debug",
+    "C/C++ File.6.2.c.executor": "Debug",
+    "C/C++ File.6.3.c.executor": "Debug",
+    "C/C++ File.6.4.c.executor": "Run",
+    "C/C++ File.6.5.c.executor": "Debug",
+    "C/C++ File.6.6.c.executor": "Debug",
+    "C/C++ File.6.7.1.c.executor": "Debug",
+    "C/C++ File.6.7.2.c.executor": "Debug",
+    "C/C++ File.6.7.3.c.executor": "Run",
+    "C/C++ File.6.7.4.c.executor": "Debug",
+    "C/C++ File.6.7.c.executor": "Run",
+    "C/C++ File.6.8.c.executor": "Debug",
+    "C/C++ File.6.9.c.executor": "Debug",
+    "CMake Application.Programming_in_C.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.6.1.1.c">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.6.7.2.c">
     <configuration name="Programming_in_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="Programming_in_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programming_in_C" RUN_TARGET_NAME="Programming_in_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6-14.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6-14.c" CONFIG_NAME="6-14.c">
-      <option name="sourceFile" value="ch6/6-14.c" />
+    <configuration name="6.4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.4.c" CONFIG_NAME="6.4.c">
+      <option name="sourceFile" value="ch6/习题6/6.4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6-15.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6-15.c" CONFIG_NAME="6-15.c">
-      <option name="sourceFile" value="ch6/6-15.c" />
+    <configuration name="6.5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.5.c" CONFIG_NAME="6.5.c">
+      <option name="sourceFile" value="ch6/习题6/6.5.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6.13.5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.13.5.c" CONFIG_NAME="6.13.5.c">
-      <option name="sourceFile" value="ch6/6.13.5.c" />
+    <configuration name="6.6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.6.c" CONFIG_NAME="6.6.c">
+      <option name="sourceFile" value="ch6/习题6/6.6.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6.13.6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.13.6.c" CONFIG_NAME="6.13.6.c">
-      <option name="sourceFile" value="ch6/6.13.6.c" />
+    <configuration name="6.7.1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.7.1.c" CONFIG_NAME="6.7.1.c">
+      <option name="sourceFile" value="ch6/习题6/6.7.1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="6.1.1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.1.1.c" CONFIG_NAME="6.1.1.c">
-      <option name="sourceFile" value="ch6/习题6/6.1.1.c" />
+    <configuration name="6.7.2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="6.7.2.c" CONFIG_NAME="6.7.2.c">
+      <option name="sourceFile" value="ch6/习题6/6.7.2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.6.1.1.c" />
-      <item itemvalue="C/C++ File.6-14.c" />
-      <item itemvalue="C/C++ File.6-15.c" />
-      <item itemvalue="C/C++ File.6.13.5.c" />
-      <item itemvalue="C/C++ File.6.13.6.c" />
+      <item itemvalue="C/C++ File.6.4.c" />
+      <item itemvalue="C/C++ File.6.5.c" />
+      <item itemvalue="C/C++ File.6.6.c" />
+      <item itemvalue="C/C++ File.6.7.1.c" />
+      <item itemvalue="C/C++ File.6.7.2.c" />
       <item itemvalue="CMake Application.Programming_in_C" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.6.1.1.c" />
-        <item itemvalue="C/C++ File.6-15.c" />
-        <item itemvalue="C/C++ File.6-14.c" />
-        <item itemvalue="C/C++ File.6.13.6.c" />
-        <item itemvalue="C/C++ File.6.13.5.c" />
+        <item itemvalue="C/C++ File.6.7.2.c" />
+        <item itemvalue="C/C++ File.6.7.1.c" />
+        <item itemvalue="C/C++ File.6.6.c" />
+        <item itemvalue="C/C++ File.6.5.c" />
+        <item itemvalue="C/C++ File.6.4.c" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +204,7 @@
       <workItem from="1726591548372" duration="24000" />
       <workItem from="1726591582344" duration="76000" />
       <workItem from="1726591660926" duration="916000" />
-      <workItem from="1726672579812" duration="1442000" />
+      <workItem from="1726672579812" duration="9062000" />
     </task>
     <servers />
   </component>
