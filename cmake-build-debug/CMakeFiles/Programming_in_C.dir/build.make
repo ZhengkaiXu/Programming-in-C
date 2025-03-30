@@ -69,31 +69,95 @@ include CMakeFiles/Programming_in_C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Programming_in_C.dir/flags.make
 
-CMakeFiles/Programming_in_C.dir/main.c.o: CMakeFiles/Programming_in_C.dir/flags.make
-CMakeFiles/Programming_in_C.dir/main.c.o: /Users/xuzhengkai/Desktop/study/Programming-in-C/main.c
-CMakeFiles/Programming_in_C.dir/main.c.o: CMakeFiles/Programming_in_C.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Programming_in_C.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Programming_in_C.dir/main.c.o -MF CMakeFiles/Programming_in_C.dir/main.c.o.d -o CMakeFiles/Programming_in_C.dir/main.c.o -c /Users/xuzhengkai/Desktop/study/Programming-in-C/main.c
+CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o: CMakeFiles/Programming_in_C.dir/flags.make
+CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o: /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/7.11.c
+CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o: CMakeFiles/Programming_in_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o -MF CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o.d -o CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o -c /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/7.11.c
 
-CMakeFiles/Programming_in_C.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Programming_in_C.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuzhengkai/Desktop/study/Programming-in-C/main.c > CMakeFiles/Programming_in_C.dir/main.c.i
+CMakeFiles/Programming_in_C.dir/ch7/7.11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Programming_in_C.dir/ch7/7.11.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/7.11.c > CMakeFiles/Programming_in_C.dir/ch7/7.11.c.i
 
-CMakeFiles/Programming_in_C.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Programming_in_C.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuzhengkai/Desktop/study/Programming-in-C/main.c -o CMakeFiles/Programming_in_C.dir/main.c.s
+CMakeFiles/Programming_in_C.dir/ch7/7.11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Programming_in_C.dir/ch7/7.11.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/7.11.c -o CMakeFiles/Programming_in_C.dir/ch7/7.11.c.s
+
+CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o: CMakeFiles/Programming_in_C.dir/flags.make
+CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o: /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/GuessNumber.c
+CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o: CMakeFiles/Programming_in_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o -MF CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o.d -o CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o -c /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/GuessNumber.c
+
+CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/GuessNumber.c > CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.i
+
+CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/GuessNumber.c -o CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.s
+
+CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o: CMakeFiles/Programming_in_C.dir/flags.make
+CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o: /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsRight.c
+CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o: CMakeFiles/Programming_in_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o -MF CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o.d -o CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o -c /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsRight.c
+
+CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsRight.c > CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.i
+
+CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsRight.c -o CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.s
+
+CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o: CMakeFiles/Programming_in_C.dir/flags.make
+CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o: /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsValidNum.c
+CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o: CMakeFiles/Programming_in_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o -MF CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o.d -o CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o -c /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsValidNum.c
+
+CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsValidNum.c > CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.i
+
+CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsValidNum.c -o CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.s
+
+CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o: CMakeFiles/Programming_in_C.dir/flags.make
+CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o: /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/MakeNumber.c
+CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o: CMakeFiles/Programming_in_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o -MF CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o.d -o CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o -c /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/MakeNumber.c
+
+CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/MakeNumber.c > CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.i
+
+CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/MakeNumber.c -o CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.s
 
 # Object files for target Programming_in_C
 Programming_in_C_OBJECTS = \
-"CMakeFiles/Programming_in_C.dir/main.c.o"
+"CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o" \
+"CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o" \
+"CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o" \
+"CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o" \
+"CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o"
 
 # External object files for target Programming_in_C
 Programming_in_C_EXTERNAL_OBJECTS =
 
-Programming_in_C: CMakeFiles/Programming_in_C.dir/main.c.o
+Programming_in_C: CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o
+Programming_in_C: CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o
+Programming_in_C: CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o
+Programming_in_C: CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o
+Programming_in_C: CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o
 Programming_in_C: CMakeFiles/Programming_in_C.dir/build.make
 Programming_in_C: CMakeFiles/Programming_in_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Programming_in_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/xuzhengkai/Desktop/study/Programming-in-C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable Programming_in_C"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Programming_in_C.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

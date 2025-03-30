@@ -24,35 +24,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch7/GuessNumber.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7/GuessNumber.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7/IsValidNum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7/MakeNumber.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7/MakeNumber.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch7/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch7/IsRight.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch7/IsRight.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch7/IsValidNum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch7/guess.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.2.dSYM/Contents/Resources/DWARF/7.1.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.2.dSYM/Contents/Resources/Relocations/aarch64/7.1.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.dSYM/Contents/Resources/DWARF/7.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1.dSYM/Contents/Resources/Relocations/aarch64/7.1.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.2.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.2.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.3.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.3.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/2.2.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/2.2.dSYM/Contents/Resources/DWARF/2.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/2.2.dSYM/Contents/Resources/Relocations/aarch64/2.2.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/7.11.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/7.11.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch7/GuessNumber.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/GuessNumber.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch7/IsValidNum.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/IsValidNum.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch7/MakeNumber.c" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/MakeNumber.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch7/MakeNumber.h" beforeDir="false" afterPath="$PROJECT_DIR$/ch7/MakeNumber.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-14cfbfbf8bbd12b9554d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f0c88a055d5274a7171b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-16T12-12-51-0051.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Programming_in_C-Debug-3bb09205064ad5fb3029.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Programming_in_C.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,123 +72,135 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.3.5.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.3.5.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.3.5.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.6.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.6.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.4.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.10.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.11.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.12.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.12.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.7.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.8.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.8.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.5.9.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6-14.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6-15.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.1.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.1.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.1.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.10.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.10.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.10.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.11.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.11.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.11.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.11.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.12.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.4.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.13.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.13.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.13.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.14.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.14.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.15.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.15.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.16.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.16.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.17.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.17.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.18.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.18.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.18.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.19.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.4.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.5.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.20.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.21.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.22.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.5.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.6.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.7.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.7.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.7.3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.7.4.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.7.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.8.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.8.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.6.8.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.9.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.9.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.9.3.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.6.9.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.7.1.2.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.7.1.c.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.7.10.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.2.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.2.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.3.1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.3.2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.5.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.6.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.7.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.8.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.7.9.c.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Programming_in_C.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.3.5.2.c.executor": "Run",
+    "C/C++ File.3.5.3.c.executor": "Run",
+    "C/C++ File.3.5.4.c.executor": "Run",
+    "C/C++ File.4.1.1.c.executor": "Run",
+    "C/C++ File.4.1.2.c.executor": "Run",
+    "C/C++ File.4.1.3.c.executor": "Run",
+    "C/C++ File.4.1.c.executor": "Run",
+    "C/C++ File.4.2.c.executor": "Run",
+    "C/C++ File.4.3.c.executor": "Run",
+    "C/C++ File.4.4.c.executor": "Run",
+    "C/C++ File.4.5.c.executor": "Run",
+    "C/C++ File.4.6.1.c.executor": "Run",
+    "C/C++ File.4.6.2.c.executor": "Run",
+    "C/C++ File.4.6.c.executor": "Run",
+    "C/C++ File.5.1.c.executor": "Run",
+    "C/C++ File.5.10.c.executor": "Run",
+    "C/C++ File.5.11.c.executor": "Run",
+    "C/C++ File.5.12.1.c.executor": "Run",
+    "C/C++ File.5.12.2.c.executor": "Run",
+    "C/C++ File.5.2.c.executor": "Run",
+    "C/C++ File.5.3.c.executor": "Run",
+    "C/C++ File.5.4.c.executor": "Run",
+    "C/C++ File.5.5.c.executor": "Run",
+    "C/C++ File.5.6.c.executor": "Run",
+    "C/C++ File.5.7.c.executor": "Run",
+    "C/C++ File.5.8.1.c.executor": "Run",
+    "C/C++ File.5.8.c.executor": "Run",
+    "C/C++ File.5.9.c.executor": "Run",
+    "C/C++ File.6-14.c.executor": "Run",
+    "C/C++ File.6-15.c.executor": "Run",
+    "C/C++ File.6.1.1.c.executor": "Debug",
+    "C/C++ File.6.1.2.c.executor": "Debug",
+    "C/C++ File.6.1.3.c.executor": "Debug",
+    "C/C++ File.6.10.1.c.executor": "Debug",
+    "C/C++ File.6.10.2.c.executor": "Debug",
+    "C/C++ File.6.10.c.executor": "Debug",
+    "C/C++ File.6.11.1.c.executor": "Debug",
+    "C/C++ File.6.11.2.c.executor": "Debug",
+    "C/C++ File.6.11.3.c.executor": "Debug",
+    "C/C++ File.6.11.c.executor": "Debug",
+    "C/C++ File.6.12.c.executor": "Debug",
+    "C/C++ File.6.13.2.c.executor": "Debug",
+    "C/C++ File.6.13.3.c.executor": "Debug",
+    "C/C++ File.6.13.4.c.executor": "Debug",
+    "C/C++ File.6.13.5.c.executor": "Run",
+    "C/C++ File.6.13.6.c.executor": "Run",
+    "C/C++ File.6.13.c.executor": "Debug",
+    "C/C++ File.6.14.1.c.executor": "Debug",
+    "C/C++ File.6.14.2.c.executor": "Debug",
+    "C/C++ File.6.15.1.c.executor": "Debug",
+    "C/C++ File.6.15.2.c.executor": "Debug",
+    "C/C++ File.6.16.1.c.executor": "Debug",
+    "C/C++ File.6.16.2.c.executor": "Debug",
+    "C/C++ File.6.17.1.c.executor": "Debug",
+    "C/C++ File.6.17.2.c.executor": "Run",
+    "C/C++ File.6.18.1.c.executor": "Debug",
+    "C/C++ File.6.18.2.c.executor": "Debug",
+    "C/C++ File.6.18.3.c.executor": "Debug",
+    "C/C++ File.6.19.c.executor": "Debug",
+    "C/C++ File.6.2.1.c.executor": "Debug",
+    "C/C++ File.6.2.2.c.executor": "Debug",
+    "C/C++ File.6.2.3.c.executor": "Debug",
+    "C/C++ File.6.2.4.c.executor": "Debug",
+    "C/C++ File.6.2.5.c.executor": "Debug",
+    "C/C++ File.6.2.c.executor": "Debug",
+    "C/C++ File.6.20.c.executor": "Debug",
+    "C/C++ File.6.21.c.executor": "Debug",
+    "C/C++ File.6.22.1.c.executor": "Debug",
+    "C/C++ File.6.3.c.executor": "Debug",
+    "C/C++ File.6.4.c.executor": "Run",
+    "C/C++ File.6.5.c.executor": "Debug",
+    "C/C++ File.6.6.c.executor": "Debug",
+    "C/C++ File.6.7.1.c.executor": "Debug",
+    "C/C++ File.6.7.2.c.executor": "Run",
+    "C/C++ File.6.7.3.c.executor": "Run",
+    "C/C++ File.6.7.4.c.executor": "Debug",
+    "C/C++ File.6.7.c.executor": "Run",
+    "C/C++ File.6.8.1.c.executor": "Debug",
+    "C/C++ File.6.8.2.c.executor": "Run",
+    "C/C++ File.6.8.c.executor": "Debug",
+    "C/C++ File.6.9.1.c.executor": "Debug",
+    "C/C++ File.6.9.2.c.executor": "Debug",
+    "C/C++ File.6.9.3.c.executor": "Debug",
+    "C/C++ File.6.9.c.executor": "Debug",
+    "C/C++ File.7.1.2.c.executor": "Debug",
+    "C/C++ File.7.1.c.executor": "Debug",
+    "C/C++ File.7.10.c.executor": "Run",
+    "C/C++ File.7.11.c.executor": "Run",
+    "C/C++ File.7.2.1.c.executor": "Run",
+    "C/C++ File.7.2.2.c.executor": "Run",
+    "C/C++ File.7.3.1.c.executor": "Run",
+    "C/C++ File.7.3.2.c.executor": "Run",
+    "C/C++ File.7.4.c.executor": "Run",
+    "C/C++ File.7.5.c.executor": "Run",
+    "C/C++ File.7.6.c.executor": "Run",
+    "C/C++ File.7.7.c.executor": "Run",
+    "C/C++ File.7.8.c.executor": "Run",
+    "C/C++ File.7.9.c.executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "CMake Application.Programming_in_C.executor": "Run",
+    "CMake Debug.Programming_in_C.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/xuzhengkai/Desktop/study/Programming-in-C/ch7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.7.10.c">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Programming_in_C">
+    <configuration name="Programming_in_C" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Programming_in_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="Programming_in_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programming_in_C" RUN_TARGET_NAME="Programming_in_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -203,20 +212,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="7.6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.6.c" CONFIG_NAME="7.6.c">
-      <option name="sourceFile" value="ch7/7.6.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="7.7.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.7.c" CONFIG_NAME="7.7.c">
-      <option name="sourceFile" value="ch7/7.7.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="7.8.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.8.c" CONFIG_NAME="7.8.c">
-      <option name="sourceFile" value="ch7/7.8.c" />
+    <configuration name="7.11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.11.c" CONFIG_NAME="7.11.c">
+      <option name="sourceFile" value="ch7/7.11.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -227,21 +224,27 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="ch7/main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="C/C++ File.7.11.c" />
+      <item itemvalue="C/C++ File.main.c" />
       <item itemvalue="C/C++ File.7.10.c" />
-      <item itemvalue="C/C++ File.7.6.c" />
-      <item itemvalue="C/C++ File.7.7.c" />
-      <item itemvalue="C/C++ File.7.8.c" />
       <item itemvalue="C/C++ File.7.9.c" />
       <item itemvalue="CMake Application.Programming_in_C" />
+      <item itemvalue="CMake Debug.Programming_in_C" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.7.11.c" />
+        <item itemvalue="C/C++ File.main.c" />
+        <item itemvalue="CMake Debug.Programming_in_C" />
         <item itemvalue="C/C++ File.7.10.c" />
         <item itemvalue="C/C++ File.7.9.c" />
-        <item itemvalue="C/C++ File.7.8.c" />
-        <item itemvalue="C/C++ File.7.7.c" />
-        <item itemvalue="C/C++ File.7.6.c" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +271,9 @@
       <workItem from="1742127127612" duration="8717000" />
       <workItem from="1742353853352" duration="3475000" />
       <workItem from="1742716858969" duration="217000" />
-      <workItem from="1742717080978" duration="7002000" />
+      <workItem from="1742717080978" duration="7088000" />
+      <workItem from="1742885029004" duration="599000" />
+      <workItem from="1743324993778" duration="7731000" />
     </task>
     <servers />
   </component>
@@ -327,6 +332,11 @@
           <url>file://$PROJECT_DIR$/ch5/习题5/5.6.c</url>
           <line>1</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

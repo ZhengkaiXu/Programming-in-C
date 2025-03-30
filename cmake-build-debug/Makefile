@@ -129,29 +129,125 @@ Programming_in_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/build
 .PHONY : Programming_in_C/fast
 
-main.o: main.c.o
-.PHONY : main.o
+ch7/7.11.o: ch7/7.11.c.o
+.PHONY : ch7/7.11.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/main.c.o
-.PHONY : main.c.o
+ch7/7.11.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o
+.PHONY : ch7/7.11.c.o
 
-main.i: main.c.i
-.PHONY : main.i
+ch7/7.11.i: ch7/7.11.c.i
+.PHONY : ch7/7.11.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/main.c.i
-.PHONY : main.c.i
+ch7/7.11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/7.11.c.i
+.PHONY : ch7/7.11.c.i
 
-main.s: main.c.s
-.PHONY : main.s
+ch7/7.11.s: ch7/7.11.c.s
+.PHONY : ch7/7.11.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/main.c.s
-.PHONY : main.c.s
+ch7/7.11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/7.11.c.s
+.PHONY : ch7/7.11.c.s
+
+ch7/GuessNumber.o: ch7/GuessNumber.c.o
+.PHONY : ch7/GuessNumber.o
+
+# target to build an object file
+ch7/GuessNumber.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o
+.PHONY : ch7/GuessNumber.c.o
+
+ch7/GuessNumber.i: ch7/GuessNumber.c.i
+.PHONY : ch7/GuessNumber.i
+
+# target to preprocess a source file
+ch7/GuessNumber.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.i
+.PHONY : ch7/GuessNumber.c.i
+
+ch7/GuessNumber.s: ch7/GuessNumber.c.s
+.PHONY : ch7/GuessNumber.s
+
+# target to generate assembly for a file
+ch7/GuessNumber.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.s
+.PHONY : ch7/GuessNumber.c.s
+
+ch7/IsRight.o: ch7/IsRight.c.o
+.PHONY : ch7/IsRight.o
+
+# target to build an object file
+ch7/IsRight.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o
+.PHONY : ch7/IsRight.c.o
+
+ch7/IsRight.i: ch7/IsRight.c.i
+.PHONY : ch7/IsRight.i
+
+# target to preprocess a source file
+ch7/IsRight.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.i
+.PHONY : ch7/IsRight.c.i
+
+ch7/IsRight.s: ch7/IsRight.c.s
+.PHONY : ch7/IsRight.s
+
+# target to generate assembly for a file
+ch7/IsRight.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.s
+.PHONY : ch7/IsRight.c.s
+
+ch7/IsValidNum.o: ch7/IsValidNum.c.o
+.PHONY : ch7/IsValidNum.o
+
+# target to build an object file
+ch7/IsValidNum.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o
+.PHONY : ch7/IsValidNum.c.o
+
+ch7/IsValidNum.i: ch7/IsValidNum.c.i
+.PHONY : ch7/IsValidNum.i
+
+# target to preprocess a source file
+ch7/IsValidNum.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.i
+.PHONY : ch7/IsValidNum.c.i
+
+ch7/IsValidNum.s: ch7/IsValidNum.c.s
+.PHONY : ch7/IsValidNum.s
+
+# target to generate assembly for a file
+ch7/IsValidNum.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.s
+.PHONY : ch7/IsValidNum.c.s
+
+ch7/MakeNumber.o: ch7/MakeNumber.c.o
+.PHONY : ch7/MakeNumber.o
+
+# target to build an object file
+ch7/MakeNumber.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o
+.PHONY : ch7/MakeNumber.c.o
+
+ch7/MakeNumber.i: ch7/MakeNumber.c.i
+.PHONY : ch7/MakeNumber.i
+
+# target to preprocess a source file
+ch7/MakeNumber.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.i
+.PHONY : ch7/MakeNumber.c.i
+
+ch7/MakeNumber.s: ch7/MakeNumber.c.s
+.PHONY : ch7/MakeNumber.s
+
+# target to generate assembly for a file
+ch7/MakeNumber.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Programming_in_C.dir/build.make CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.s
+.PHONY : ch7/MakeNumber.c.s
 
 # Help Target
 help:
@@ -162,9 +258,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Programming_in_C"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... ch7/7.11.o"
+	@echo "... ch7/7.11.i"
+	@echo "... ch7/7.11.s"
+	@echo "... ch7/GuessNumber.o"
+	@echo "... ch7/GuessNumber.i"
+	@echo "... ch7/GuessNumber.s"
+	@echo "... ch7/IsRight.o"
+	@echo "... ch7/IsRight.i"
+	@echo "... ch7/IsRight.s"
+	@echo "... ch7/IsValidNum.o"
+	@echo "... ch7/IsValidNum.i"
+	@echo "... ch7/IsValidNum.s"
+	@echo "... ch7/MakeNumber.o"
+	@echo "... ch7/MakeNumber.i"
+	@echo "... ch7/MakeNumber.s"
 .PHONY : help
 
 

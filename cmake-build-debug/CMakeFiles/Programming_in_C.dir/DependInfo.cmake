@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/xuzhengkai/Desktop/study/Programming-in-C/main.c" "CMakeFiles/Programming_in_C.dir/main.c.o" "gcc" "CMakeFiles/Programming_in_C.dir/main.c.o.d"
+  "/Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/7.11.c" "CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o" "gcc" "CMakeFiles/Programming_in_C.dir/ch7/7.11.c.o.d"
+  "/Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/GuessNumber.c" "CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o" "gcc" "CMakeFiles/Programming_in_C.dir/ch7/GuessNumber.c.o.d"
+  "/Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsRight.c" "CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o" "gcc" "CMakeFiles/Programming_in_C.dir/ch7/IsRight.c.o.d"
+  "/Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/IsValidNum.c" "CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o" "gcc" "CMakeFiles/Programming_in_C.dir/ch7/IsValidNum.c.o.d"
+  "/Users/xuzhengkai/Desktop/study/Programming-in-C/ch7/MakeNumber.c" "CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o" "gcc" "CMakeFiles/Programming_in_C.dir/ch7/MakeNumber.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

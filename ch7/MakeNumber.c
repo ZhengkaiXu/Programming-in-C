@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-//#include <stdlib.h>
+#include <stdlib.h>
 #include "MakeNumber.h"
 // 函数功能：计算机生成一个随机数
 // 函数参数：无

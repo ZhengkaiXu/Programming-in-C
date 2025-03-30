@@ -21,7 +21,7 @@ void GuessNumber(int number) {
         }
         count++; // 记录用户猜的次数
         right = IsRight(number, guess); // 判断用户猜的数是大还是小
-    } while (!right && count > MAX_TIMES);
+    } while (!right && count < MAX_TIMES);
     if (right) { // 若用户猜对了，则输出相应的提示信息
         printf("Congratulations!You're so cool!\n");
     } else { // 若超过MAX_TIMES次仍未猜对，输出相应的提示信息
