@@ -23,7 +23,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="" />
+    <list default="true" id="2be4eede-30d1-49be-ae40-d21c53785a0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch8/8.1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch8/8.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch8/8.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +150,9 @@
     "C/C++ File.7.7.c.executor": "Run",
     "C/C++ File.7.8.c.executor": "Run",
     "C/C++ File.7.9.c.executor": "Run",
+    "C/C++ File.8.1.c.executor": "Run",
+    "C/C++ File.8.2.c.executor": "Run",
+    "C/C++ File.8.3.c.executor": "Run",
     "C/C++ File.main.c.executor": "Run",
     "CMake Application.Programming_in_C.executor": "Run",
     "CMake Debug.Programming_in_C.executor": "Debug",
@@ -170,19 +178,10 @@
       <recent name="$PROJECT_DIR$/ch7" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Programming_in_C">
-    <configuration name="Programming_in_C" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.8.3.c">
     <configuration name="Programming_in_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="Programming_in_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Programming_in_C" RUN_TARGET_NAME="Programming_in_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="7.10.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.10.c" CONFIG_NAME="7.10.c">
-      <option name="sourceFile" value="ch7/7.10.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="7.11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.11.c" CONFIG_NAME="7.11.c">
@@ -191,8 +190,20 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="7.9.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="7.9.c" CONFIG_NAME="7.9.c">
-      <option name="sourceFile" value="ch7/7.9.c" />
+    <configuration name="8.1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="8.1.c" CONFIG_NAME="8.1.c">
+      <option name="sourceFile" value="ch8/8.1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="8.2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="8.2.c" CONFIG_NAME="8.2.c">
+      <option name="sourceFile" value="ch8/8.2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="8.3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programming_in_C" TARGET_NAME="8.3.c" CONFIG_NAME="8.3.c">
+      <option name="sourceFile" value="ch8/8.3.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -205,19 +216,19 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.7.11.c" />
+      <item itemvalue="C/C++ File.8.1.c" />
+      <item itemvalue="C/C++ File.8.2.c" />
+      <item itemvalue="C/C++ File.8.3.c" />
       <item itemvalue="C/C++ File.main.c" />
-      <item itemvalue="C/C++ File.7.10.c" />
-      <item itemvalue="C/C++ File.7.9.c" />
       <item itemvalue="CMake Application.Programming_in_C" />
-      <item itemvalue="CMake Debug.Programming_in_C" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.8.3.c" />
+        <item itemvalue="C/C++ File.8.2.c" />
+        <item itemvalue="C/C++ File.8.1.c" />
         <item itemvalue="C/C++ File.7.11.c" />
         <item itemvalue="C/C++ File.main.c" />
-        <item itemvalue="CMake Debug.Programming_in_C" />
-        <item itemvalue="C/C++ File.7.10.c" />
-        <item itemvalue="C/C++ File.7.9.c" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +257,7 @@
       <workItem from="1742716858969" duration="217000" />
       <workItem from="1742717080978" duration="7088000" />
       <workItem from="1742885029004" duration="599000" />
-      <workItem from="1743324993778" duration="8049000" />
+      <workItem from="1743324993778" duration="11727000" />
     </task>
     <servers />
   </component>
